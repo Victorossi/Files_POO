@@ -1,1 +1,1 @@
-Repositorio de los trabajos asignados por clase de la materia POO, en la carrera Ingenieria Informatica, UBP.
+Repositorio de los trabajos asignados en clase de la materia Programacion Orientada a Objetos, en la carrera Ingenieria Informatica, UBP.
